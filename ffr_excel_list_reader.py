@@ -3,6 +3,8 @@ Automating collection of Fossil Free Research data.
 Goal: To find all corporate research sponsors at the University of Toronto
 that are on UBC’s list of fossil fuel enablers.
 
+The list of research sponsors is no longer available, so I could not include it here.
+
 Documentation for:
 CSV library: https://docs.python.org/3/library/csv.html
 
